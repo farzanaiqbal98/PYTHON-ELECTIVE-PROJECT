@@ -1,6 +1,6 @@
 # PYGAME PROJECT- UP N UP!
 # COURSE MSP(PH4031D)- G SLOT
-# Group No 20 -Members:ALKA PB ,FARZANA IQBAL ,JISHNU K
+# Group No 20
 # Sprites form opengameart.org from Kenny.nl
 # Background images from freepik.com
 # Music credits opengameart.org
